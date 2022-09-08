@@ -21,8 +21,7 @@ spec:
   dependsOn: ["component:dataproduct-001"]
 
   # Custom fields
-  # Example: https://raw.githubusercontent.com/ericbroda/dataproduct-001/main/summary.yaml
-  summaryLink: "https://api.github.com/repos/ericbroda/data-mesh-product-new/contents/specification-summary.yaml"
+  summaryLink: "https://api.github.com/repos/ericbroda/data-mesh-product-new/contents/catalog-info.yaml"
   apiSpecification: "apiSpecification-1"
   schemaSpecification: "schemaSpecification-1"
   querySpecification: "querySpecification-1"
