@@ -1,10 +1,10 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: "dataproduct-002"
+  name: "dataproduct-new"
   namespace: broda-group-software
-  title: "Data Product Title"
-  description: "Data Product Description"
+  title: "Data Product New"
+  description: "Data Product New Description"
   # labels: 
   # annotations: 
   tags: ["tag-1"]
@@ -13,7 +13,7 @@ spec:
   # Reserved fields
   type: data-product
   lifecycle: "experimental"
-  owner: "owner-1"
+  owner: "user:guest"
   system: "system-1"
   subcomponentOf: "parent-1"
   providesApis: ["somePublishedAPI"]
