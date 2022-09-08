@@ -22,7 +22,7 @@ spec:
 
   # Custom fields
   # Example: https://raw.githubusercontent.com/ericbroda/dataproduct-001/main/summary.yaml
-  summaryLink: "summaryLink-1"
+  summaryLink: "https://github.com/ericbroda/data-mesh-product-new/blob/master/specification-summary.yaml"
   apiSpecification: "apiSpecification-1"
   schemaSpecification: "schemaSpecification-1"
   querySpecification: "querySpecification-1"
