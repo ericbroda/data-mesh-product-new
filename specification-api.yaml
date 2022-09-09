@@ -6,7 +6,7 @@ info:
   description: "Data Product Description"
   contact:
     name: "owner-1"
-    email: "owner-1"@brodagroupsoftware.com
+    email: contact@brodagroupsoftware.com
   version: v0.0.1
 paths:
   /discover:
