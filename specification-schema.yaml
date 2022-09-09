@@ -1,6 +1,6 @@
 # Source: https://datahubproject.io/docs/metadata-service (Retrieving Entityt Aspects section)
-urn: urn:li:dataset:(urn:li:dataPlatform:hdfs,SampleHdfsDataset,PROD)
-entityName: dataset
+zurn: urn:li:dataset:(urn:li:dataPlatform:hdfs,SampleHdfsDataset,PROD)
+zentityName: dataset
 aspects:
   editableSchemaMetadata:
     name: editableSchemaMetadata
