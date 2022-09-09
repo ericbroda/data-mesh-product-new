@@ -5,10 +5,10 @@ metadata:
   namespace: broda-group-software
   title: "Data Product New"
   description: "Data Product New Description"
-  # labels: 
-  # annotations: 
+  # labels:
+  # annotations:
   tags: ["tag-1"]
-  # links: 
+  # links:
 spec:
   # Reserved fields
   type: data-product
@@ -22,7 +22,7 @@ spec:
 
   # Custom fields
   summaryLink: "https://api.github.com/repos/ericbroda/data-mesh-product-new/contents/specification-summary.yaml"
-  apiSpecification: "apiSpecification-1"
+  apiSpecification: "https://api.github.com/repos/ericbroda/data-mesh-product-new/contents/specification-api.yaml"
   schemaSpecification: "schemaSpecification-1"
   querySpecification: "querySpecification-1"
   eventSpecification: "eventSpecification-1"
