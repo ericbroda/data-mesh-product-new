@@ -1,76 +1,14 @@
-openapi: 3.0.1
-servers:
-  - url: http://brodagroupsoftware/v1
-info:
-  title: "dataproduct-002"
-  description: "Data Product Description"
-  contact:
-    name: "owner-1"
-    email: contact@brodagroupsoftware.com
-  version: v0.0.1
-paths:
-  /discover:
-    get:
-      summary: Discover endpoint
-      operationId: discoverGET
-      tags:
-        - discover
-      responses:
-        '200':
-          description: Successful response
-          content:
-            application/json:
-              schema:
-                type: string
-  /observe:
-    get:
-      summary: Observe endpoint
-      operationId: observeGET
-      tags:
-        - observe
-      responses:
-        '200':
-          description: Successful response
-          content:
-            application/json:
-              schema:
-                type: string
-  /usage:
-    get:
-      summary: Usage endpoint
-      operationId: usageGET
-      tags:
-        - usage
-      responses:
-        '200':
-          description: Successful response
-          content:
-            application/json:
-              schema:
-                type: string
-  /logs:
-    get:
-      summary: Logs endpoint
-      operationId: logsGET
-      tags:
-        - logs
-      responses:
-        '200':
-          description: Successful response
-          content:
-            application/json:
-              schema:
-                type: string
-  /alerts:
-    get:
-      summary: Alerts endpoint
-      operationId: alertsGET
-      tags:
-        - alerts
-      responses:
-        '200':
-          description: Successful response
-          content:
-            application/json:
-              schema:
-                type: string
+license: |
+  Copyright 2022 Broda Group Software Inc.
+
+  Licensed under the Apache License, Version 2.0 (the "License");
+  you may not use this file except in compliance with the License.
+  You may obtain a copy of the License at
+
+      http://www.apache.org/licenses/LICENSE-2.0
+
+  Unless required by applicable law or agreed to in writing, software
+  distributed under the License is distributed on an "AS IS" BASIS,
+  WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  See the License for the specific language governing permissions and
+  limitations under the License.
