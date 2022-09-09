@@ -1,5 +1,6 @@
 # Source: https://datahubproject.io/docs/metadata-service (Retrieving Entityt Aspects section)
 urn: urn:li:dataset:(urn:li:dataPlatform:hdfs,SampleHdfsDataset,PROD)
+entityName: dataset
 aspects:
   editableSchemaMetadata:
     name: editableSchemaMetadata
@@ -174,4 +175,3 @@ aspects:
     created:
       actor: urn:li:corpuser:UNKNOWN
       time: 1646245614843
-entityName: dataset
