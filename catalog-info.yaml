@@ -23,6 +23,6 @@ spec:
   # Custom fields
   summarySpecification: "https://api.github.com/repos/ericbroda/data-mesh-product-new/contents/specification-summary.yaml"
   apiSpecification: "https://api.github.com/repos/ericbroda/data-mesh-product-new/contents/specification-api.yaml"
-  schemaSpecification: "schemaSpecification-1"
-  querySpecification: "querySpecification-1"
-  eventSpecification: "eventSpecification-1"
+  schemaSpecification: "https://api.github.com/repos/ericbroda/data-mesh-product-new/contents/specification-schema.yaml"
+  querySpecification: "https://api.github.com/repos/ericbroda/data-mesh-product-new/contents/specification-query.yaml"
+  eventSpecification: "https://api.github.com/repos/ericbroda/data-mesh-product-new/contents/specification-event.yaml"
