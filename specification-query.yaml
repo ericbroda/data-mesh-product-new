@@ -1,4 +1,4 @@
-queryspecification: 0.0.1
+queryspecification:
   - query:
     title: "query-001"
     description: "Query 001 Description"
