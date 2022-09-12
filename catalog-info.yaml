@@ -23,7 +23,7 @@ spec:
 
   # Custom fields
   # summarySpecification: "https://api.github.com/repos/ericbroda/data-mesh-product-new/contents/specification-summary.yaml"
-  summarySpecification: "https://github.com/ericbroda/data-mesh-product-new/blob/main/specification-summary.yaml"
+  summarySpecification: "https://github.com/ericbroda/data-mesh-product-new/blob/master/specification-summary.yaml"
 
   apiSpecification: "https://api.github.com/repos/ericbroda/data-mesh-product-new/contents/specification-api.yaml"
   querySpecification: "https://api.github.com/repos/ericbroda/data-mesh-product-new/contents/specification-query.yaml"
