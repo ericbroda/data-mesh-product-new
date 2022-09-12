@@ -20,10 +20,13 @@ spec:
   consumesApis: ["someConsumedAPI"]
   dependsOn: ["component:dataproduct-001"]
 
+
   # Custom fields
-  # Sampel for schemas: https://datahubproject.io/docs/metadata-service (Retrieving Entity Aspects section)
-  summarySpecification: "https://api.github.com/repos/ericbroda/data-mesh-product-new/contents/specification-summary.yaml"
+  # summarySpecification: "https://api.github.com/repos/ericbroda/data-mesh-product-new/contents/specification-summary.yaml"
+  summarySpecification: "https://github.com/ericbroda/data-mesh-product-new/blob/main/specification-summary.yaml"
+
   apiSpecification: "https://api.github.com/repos/ericbroda/data-mesh-product-new/contents/specification-api.yaml"
-  schemaSpecification: "https://api.github.com/repos/ericbroda/data-mesh-product-new/contents/specification-schema.json"
   querySpecification: "https://api.github.com/repos/ericbroda/data-mesh-product-new/contents/specification-query.yaml"
   eventSpecification: "https://api.github.com/repos/ericbroda/data-mesh-product-new/contents/specification-event.yaml"
+  # Sample for schemas: https://datahubproject.io/docs/metadata-service (Retrieving Entity Aspects section)
+  schemaSpecification: "https://api.github.com/repos/ericbroda/data-mesh-product-new/contents/specification-schema.json"
