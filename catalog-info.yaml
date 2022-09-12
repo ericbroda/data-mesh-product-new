@@ -22,8 +22,8 @@ spec:
 
 
   # Custom fields
-  # GitHub REST API: "https://api.github.com/repos/ericbroda/data-mesh-product-new/contents/specification-summary.yaml"
-  summarySpecification: "https://github.com/ericbroda/data-mesh-product-new/blob/master/specification-summary.yaml"
+  # GitHub REST API: "https://api.github.com/repos/ericbroda/data-mesh-product-new/contents/specification-license.yaml"
+  licenseSpecification: "https://github.com/ericbroda/data-mesh-product-new/blob/master/specification-license.yaml"
 
   apiSpecification: "https://github.com/ericbroda/data-mesh-product-new/blob/master/specification-api.yaml"
   querySpecification: "https://github.com/ericbroda/data-mesh-product-new/blob/master/specification-query.yaml"
